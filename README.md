@@ -1,9 +1,8 @@
 # SpringBoot-Application 
 
-Below is the URL Link for this module. This is the beta version.
+Below is the URL Link for this module. 
 
-https://testingdatajpa.herokuapp.com/
-
+https://springboot-crudoperations.herokuapp.com/
 
 Predefind Dataset :
 
